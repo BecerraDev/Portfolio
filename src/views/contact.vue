@@ -88,7 +88,6 @@
             </div>
         </div>
     </div>
-    <div class="arrow-down"></div>
 
 </template>
 
@@ -100,7 +99,7 @@
   bottom: 20px; /* Ajusta según sea necesario */
   width: 30px;
   height: 30px;
- background-image: url('@/assets/images/arrow-down.svg'); 
+ background-image: url('@/assets/images/arrow-down.png'); 
   background-size: contain;
   background-repeat: no-repeat;
   cursor: pointer; /* Añade si deseas un cursor que indique que es interactivo */
