@@ -8,31 +8,14 @@
                       <h2 class="my-2 color-title-section">Mi Trayectoria</h2>
 
                       <p>
-                          ¡Hola! Soy Byron Becerra, un ingeniero en
-                          Informática con una sólida trayectoria en desarrollo
-                          web full stack. Me apasiona trabajar tanto en el
-                          frontend como en el backend, utilizando herramientas
-                          como JavaScript, Vue.js, Express, PHP, Laravel, SQL,
-                          CSS y Bootstrap para crear soluciones robustas y
-                          eficientes.
+                         ¡Hola! Soy Byron Becerra, ingeniero en Informática y me encanta el desarrollo web full stack. Disfruto trabajando tanto en el frontend como en el backend, utilizando herramientas como JavaScript, Vue.js, Express, PHP, Laravel, SQL, CSS y Bootstrap para crear soluciones efectivas.
                       </p>
                       <p>
-                          Aunque mi experiencia laboral se centra en mis
-                          estudios de ingeniería en informática y no en roles
-                          previos, mi formación académica y gusto por
-                          resolver problemas técnicos me han preparado para
-                          enfrentar desafíos en el desarrollo web.
+                          Aunque mi experiencia laboral se centra en mis estudios, estoy muy motivado por resolver problemas técnicos y enfrentar desafíos en el desarrollo web.
 
                       </p>
                       <p>
-                          Mi experiencia laboral previa de 4 años en un centro
-                          de llamadas me ha equipado con habilidades valiosas
-                          en la resolución de problemas y la atención al
-                          cliente, las cuales aplico en mi enfoque hacia el
-                          desarrollo web. Actualmente, me encuentro en la
-                          etapa junior de mi carrera, comprometido en mejorar
-                          constantemente mis habilidades y contribuir a
-                          proyectos innovadores.
+                        Antes de esto, trabajé 4 años en un centro de llamadas, donde aprendí mucho sobre atención al cliente y resolución de problemas. Ahora estoy en la etapa junior de mi carrera, siempre buscando mejorar mis habilidades y contribuir a proyectos innovadores.
                       </p>
 
                   </div>

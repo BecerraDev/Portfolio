@@ -60,13 +60,13 @@
                 <div class="overlay">
                   <button class="btn custom-button color1 btn-primary mb-4" id="openModalButton" data-video="hGVHxFQF2ac">
                     <i class="fas fa-play-circle mr-1"></i> Reproducir </button>
-                    <a href="https://github.com/BecerraDev/Theratek" class="btn custom-button color2 btn-primary">
+                    <a href="https://github.com/BecerraDev/GrafiTareas" class="btn custom-button color2 btn-primary">
                       <i class="fab fa-github mr-1"></i> Repositorio
                     </a>
                 </div>
               </div>
               <div class="description">
-                <h4> THERATEK <div class="text-muted text-small"> Academia de Gestión Moderna </div>
+                <h4> GrafiTareas <div class="text-muted text-small"> Academia de Gestión Moderna </div>
                 </h4>
                 <p> Proyecto web para gestionar tareas administrativas diarias, permitiendo agregar, eliminar y actualizar actividades según su prioridad.</p>
                 <div class="icons project-icons">
