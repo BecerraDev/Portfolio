@@ -53,7 +53,7 @@
             <div class="col-12 col-md-4"  data-aos="fade-up" data-aos-delay="100">
               <div class="image-container">
                 <img 
-                v-bind:src="require('@/assets/images/etpel-1.png')"
+                v-bind:src="require('@/assets/images/grafitareas-1.png')"
           
                 
                 class="img-fluid" alt="web design" />

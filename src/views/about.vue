@@ -8,8 +8,7 @@
                       <h2 class="my-2 color-title-section">Mi Trayectoria</h2>
 
                       <p>
-                         ¡Hola! Soy Byron Becerra, ingeniero en Informática y me encanta el desarrollo web full stack. Disfruto trabajando tanto en el frontend como en el backend, utilizando herramientas como JavaScript, Vue.js, Express, PHP, Laravel, SQL, CSS y Bootstrap para crear soluciones efectivas.
-                      </p>
+                        ¡Hola! Soy Byron Becerra, ingeniero en Informática y me encanta el desarrollo web full stack. Disfruto trabajando tanto en el frontend como en el backend, utilizando herramientas como JavaScript, Vue.js, Express, PHP, Laravel, SQL, CSS y Bootstrap para crear soluciones efectivas. Además, manejo GitHub para la gestión de versiones y colaboración en proyectos.                      </p>
                       <p>
                           Aunque mi experiencia laboral se centra en mis estudios, estoy muy motivado por resolver problemas técnicos y enfrentar desafíos en el desarrollo web.
 
@@ -17,6 +16,20 @@
                       <p>
                         Antes de esto, trabajé 4 años en un centro de llamadas, donde aprendí mucho sobre atención al cliente y resolución de problemas. Ahora estoy en la etapa junior de mi carrera, siempre buscando mejorar mis habilidades y contribuir a proyectos innovadores.
                       </p>
+
+                      <p>
+                        Información adicional
+
+                        <ul>
+                          <li> <strong>Recursos: </strong> <a href="https://drive.google.com/drive/folders/1mgqM7m7h4cqA-UoSHN4qKtiqr-oBaLqq?usp=sharing"> 
+                            Documentación </a>  </li>
+                          <li><strong>Repositorio :</strong> <a href="https://github.com/BecerraDev?tab=repositories"> GitHub   </a> </li>
+                          <li><strong>Linkedin:</strong>  <a href="https://www.linkedin.com/in/byron-becerra-aravena-406845308/"> Byron Becerra </a></li>
+                          <li><strong>Telefono:</strong> (+56) 9 5606 4816 (Móvil)         </li>
+                        </ul>
+
+                      </p>
+
 
                   </div>
                   <div
