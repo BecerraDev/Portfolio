@@ -40,7 +40,7 @@
                                     data-aos-delay="200"
                                 >
                                     <a
-                                        href="https://www.linkedin.com/in/byron-becerra-aravena-406845308/"
+                                        href="https://www.linkedin.com/in/byron-becerra/"
                                         target="_blank" 
                                         class="social-icon"
                                         ><i class="fab fa-linkedin"></i

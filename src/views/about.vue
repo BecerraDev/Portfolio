@@ -24,7 +24,7 @@
                           <li> <strong>Recursos: </strong> <a target="_blank" href="https://drive.google.com/drive/folders/1mgqM7m7h4cqA-UoSHN4qKtiqr-oBaLqq?usp=sharing"> 
                            Ver Documentación </a>  </li>
                           <li><strong>GitHub:</strong> <a target="_blank" href="https://github.com/BecerraDev?tab=repositories"> Repositorio   </a> </li>
-                          <li><strong>Linkedin:</strong>  <a target="_blank" href="https://www.linkedin.com/in/byron-becerra-aravena-406845308/"> Byron Becerra </a></li>
+                          <li><strong>Linkedin:</strong>  <a target="_blank" href="https://www.linkedin.com/in/byron-becerra/"> byron-becerra </a></li>
                           <li><strong>Contacto:</strong> (+56) 9 5606 4816 (Móvil)         </li>
                         </ul>
 
