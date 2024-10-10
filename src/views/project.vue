@@ -28,7 +28,7 @@
                 <div class="overlay">
                   <button class="btn custom-button color1 btn-primary mb-4" id="openModalButton" data-video="eLnMcYij1qE">
                   <i class="fas fa-play-circle mr-1"></i> Reproducir </button>
-                      <a href="https://github.com/BecerraDev/ETPEL-Portal" class="btn color2 custom-button btn-primary">
+                      <a href="https://github.com/BecerraDev/ETPEL-Portal" target="_blank"  class="btn color2 custom-button btn-primary">
                         <i class="fab fa-github mr-1"></i> Repositorio
                       </a>
                 </div>
@@ -60,7 +60,7 @@
                 <div class="overlay">
                   <button class="btn custom-button color1 btn-primary mb-4" id="openModalButton" data-video="xvdJyEN7P6k">
                     <i class="fas fa-play-circle mr-1"></i> Reproducir </button>
-                    <a href="https://github.com/BecerraDev/GrafiTareas" class="btn custom-button color2 btn-primary">
+                    <a href="https://github.com/BecerraDev/GrafiTareas" target="_blank"  class="btn custom-button color2 btn-primary">
                       <i class="fab fa-github mr-1"></i> Repositorio
                     </a>
                 </div>

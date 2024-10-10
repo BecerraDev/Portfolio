@@ -41,11 +41,13 @@
                                 >
                                     <a
                                         href="https://www.linkedin.com/in/byron-becerra-aravena-406845308/"
+                                        target="_blank" 
                                         class="social-icon"
                                         ><i class="fab fa-linkedin"></i
                                     ></a>
                                     <a
                                         href="https://github.com/BecerraDev"
+                                        target="_blank" 
                                         class="social-icon"
                                         ><i class="fab fa-github"></i
                                     ></a>
