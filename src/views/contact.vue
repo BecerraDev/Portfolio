@@ -93,18 +93,7 @@
 
 <style scoped>
 
-.arrow-down {
-  position: absolute;
-  right: 20px; /* Ajusta según sea necesario */
-  bottom: 20px; /* Ajusta según sea necesario */
-  width: 30px;
-  height: 30px;
- background-image: url('@/assets/images/arrow-down.png'); 
-  background-size: contain;
-  background-repeat: no-repeat;
-  cursor: pointer; /* Añade si deseas un cursor que indique que es interactivo */
-  transition: transform 0.3s ease-in-out; /* Añade una transición suave si deseas animaciones */
-}
+
 
 .arrow-down:hover {
   transform: translateY(5px); /* Efecto de desplazamiento hacia abajo al pasar el ratón */
