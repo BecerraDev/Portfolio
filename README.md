@@ -7,5 +7,7 @@ Disfruto trabajando tanto en el frontend como en el backend, utilizando herramie
 Linkedin: https://www.linkedin.com/in/byron-becerra-aravena-406845308/
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 El portfolio ha sido desarrollado utilizando Vue.js, un framework progresivo de JavaScript que permite crear interfaces de usuario interactivas y reactivas. Cada sección del portfolio está dividida en componentes Vue, facilitando la organización y reutilización del código.
+
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
