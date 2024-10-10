@@ -75,7 +75,13 @@
                   <i class="fas fa-database mr-2" title="Database"></i>
                   <i class="fab fa-css3-alt mr-2" title="CSS"></i>
                   <i class="fab fa-php mr-2" title="PHP"></i>
-                  <i class="fas fa-code mr-2" title="Laravel"></i>
+                  <a
+    href="https://drive.google.com/file/d/1liGkOGHSlLRRAq57Yy8QRfTcMTn-6K5D/view" 
+    class="styled-link font-2"
+    target="_blank"
+>
+    Ver PDF online
+</a>
                 </div>
               </div>
             </div>

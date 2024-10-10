@@ -61,7 +61,7 @@
                                 data-aos-delay="200"
                             >
                                 <a
-                                    href="/downloads/ByronBecerra_CV_2024.pdf"
+                                    href="/Portfolio/downloads/ByronBecerra_CV_2024.pdf"
                                     class="styled-link font-2"
                                     
                                     download="ByronBecerra_CV_2024.pdf"
