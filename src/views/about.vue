@@ -8,17 +8,25 @@
                       <h2 class="my-2 color-title-section">Mi Trayectoria</h2>
 
                       <p>
-                        ¡Hola! Soy Byron Becerra, ingeniero en Informática y me encanta el desarrollo web full stack. Disfruto trabajando tanto en el frontend como en el backend, utilizando herramientas como JavaScript, Vue.js, Express, PHP, Laravel, SQL, CSS y Bootstrap para crear soluciones efectivas. Además, manejo GitHub para la gestión de versiones y colaboración en proyectos.                      </p>
-                      <p>
-                          Aunque mi experiencia laboral se centra en mis estudios, estoy muy motivado por resolver problemas técnicos y enfrentar desafíos en el desarrollo web.
-
+                       
+                        Soy Byron Becerra y me dedico a crear soluciones web completas, abarcando tanto el backend como el frontend, utilizando tecnologías como <strong> Java, PHP, Laravel, Spring Boot</strong> y <strong> SQL</strong>.
                       </p>
                       <p>
-                        Antes de esto, trabajé 4 años en un centro de llamadas, donde aprendí mucho sobre atención al cliente y resolución de problemas. Ahora estoy en la etapa junior de mi carrera, siempre buscando mejorar mis habilidades y contribuir a proyectos innovadores.
+                        Me gradué en Ingeniería en Informática y, aunque mi experiencia profesional es corta, he enfrentado retos interesantes que me han permitido crecer. Siempre estoy en busca de nuevas tecnologías para mejorar y aportar más a los proyectos en los que participo.
+
+
+</p>                    
+                    
+                    
+                    
+                    
+                    
+                          <p>
+                            En mi tiempo de estudio, logré comprender cómo funciona la programación desde sus bases y cómo aplicarla para resolver problemas reales. Además, he adquirido experiencia trabajando con tecnologías en la nube, lo que me permite crear aplicaciones escalables y eficientes. Ahora, como desarrollador junior, disfruto enfrentándome a nuevos desafíos, aprendiendo y colaborando con otros para seguir creciendo en el mundo del desarrollo web.
                       </p>
 
                       <p>
-                        Información adicional
+                        Información adicional 
 
                         <ul>
                           <li> <strong>Recursos: </strong> <a target="_blank" href="https://drive.google.com/drive/folders/1mgqM7m7h4cqA-UoSHN4qKtiqr-oBaLqq?usp=sharing"> 
@@ -26,6 +34,7 @@
                           <li><strong>GitHub:</strong> <a target="_blank" href="https://github.com/BecerraDev?tab=repositories"> Repositorio   </a> </li>
                           <li><strong>Linkedin:</strong>  <a target="_blank" href="https://www.linkedin.com/in/byron-becerra/"> byron-becerra </a></li>
                           <li><strong>Contacto:</strong> (+56) 9 5606 4816 (Móvil)         </li>
+                          <li><strong>Correo:</strong> byron.becerra.aravena@gmail.com         </li>
                         </ul>
 
                       </p>

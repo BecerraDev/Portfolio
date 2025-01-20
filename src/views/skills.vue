@@ -120,6 +120,16 @@
                                     <span class="skill-level">Intermedio</span>
                                 </li>
 
+                                <li
+    class="skill-item"
+    role="progressbar"
+    data-aos="zoom-in"
+    data-aos-delay="100"
+>
+    <i class="fab fa-java mb-2"></i> <!-- Usando el ícono de Java como referencia -->
+    <h5>Spring Boot</h5>
+    <span class="skill-level">Intermedio</span>
+</li>
                                 <!-- Añadir más íconos con sus niveles aquí -->
                             </ul>
                         </div>

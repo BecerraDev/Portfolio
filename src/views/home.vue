@@ -27,7 +27,7 @@
                                 data-aos="fade-up"
                                 data-aos-delay="100"
                             >
-                                Desarrollador Web FullStack Junior
+                                Desarrollador Web FullStack
                             </p>
                             <div
                                 class="social-nav"
@@ -63,10 +63,10 @@
                                 data-aos-delay="200"
                             >
                                 <a
-                                    href="/Portfolio/downloads/ByronBecerra_CV_2024.pdf"
+                                    href="/Portfolio/downloads/ByronBecerra_CV_2025.pdf"
                                     class="styled-link font-2"
                                     
-                                    download="ByronBecerra_CV_2024.pdf"
+                                    download="ByronBecerra_CV_2025.pdf"
                                     >Descargar CV</a
                                 >
                             </div>
